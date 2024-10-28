@@ -62,3 +62,27 @@ class FontManager:
         # macOS and others
         else:
             return False
+var v3 = /*#__PURE__*/Object.freeze({
+  __proto__: null,
+  add: add,
+  copy: copy,
+  create: create,
+  cross: cross,
+  distance: distance,
+  distanceSq: distanceSq,
+  divide: divide,
+  divScalar: divScalar,
+  dot: dot,
+  lerp: lerp,
+  lerpV: lerpV,
+  length: length$1,
+  lengthSq: lengthSq,
+  max: max,
+  min: min,
+  mulScalar: mulScalar,
+  multiply: multiply,
+  negate: negate,
+  normalize: normalize,
+  setDefaultType: setDefaultType,
+  subtract: subtract
+});
